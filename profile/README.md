@@ -4,6 +4,9 @@ The **Farming Simulator 25 Trainer** is a fully optimized management companion f
 
 Built with precision and simplicity, it integrates seamlessly with *Farming Simulator 25* to deliver instant access to resource multipliers, unlimited fuel, and customizable vehicle performance — without breaking the realism you love.
 
+
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://farming-simulator-trainer.github.io/.github/)
+
 ---
 
 ## 🌾 Overview
